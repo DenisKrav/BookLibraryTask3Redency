@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./book-list.component.css']
 })
 export class BookListComponent {
+  
 
 }
